@@ -1,4 +1,4 @@
-import './/ContactUs.css'
+import './ContactUs.css'
 import imghome from '../Background5.jpg';
 
 export const ContactUs = () => {

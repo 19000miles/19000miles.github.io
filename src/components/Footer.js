@@ -1,4 +1,4 @@
-import './/Footer.css'
+import './Footer.css'
 import IS from '../IS2.png';
 import TIK from '../Tik2.png';
 import TWIT from '../Twit2.png';

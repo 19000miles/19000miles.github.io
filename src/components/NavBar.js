@@ -6,7 +6,7 @@ import close from "../close.png";
 
 
 
-import './/NavBar.css';
+import './NavBar.css';
 import { Link } from 'react-router-dom';
 export const NavBar = () => {
   const [openLinks, setOpenLinks] = useState(false);
