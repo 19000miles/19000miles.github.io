@@ -1,0 +1,29 @@
+.FollowBody{
+    
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.social-logo2{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+     
+}
+.FollowLogos{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+@media only screen and (max-width: 900px) {
+    
+  .FollowLogos{
+
+    display: block;
+}
+
+}
