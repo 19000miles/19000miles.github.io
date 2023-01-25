@@ -1,6 +1,5 @@
 import { NavBar } from './components/NavBar.js';
 import { Footer } from './components/Footer.js';
-import { ContactUs } from './components/ContactUs.js';
 import imghome from './camping-img.jpg';
 import './Home.css'
 function Camping() {
