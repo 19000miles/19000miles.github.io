@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/19000miles.github.io/static/css/main.b0a19fc9.css",
+    "main.js": "/19000miles.github.io/static/js/main.cd9b0fc7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/19000miles.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img-home.jpg": "/19000miles.github.io/static/media/img-home.cc53df72fee33baf1e6d.jpg",
+    "static/media/snow-img.jpg": "/19000miles.github.io/static/media/snow-img.182b06c9e11e4e8ff0a6.jpg",
+    "static/media/cameras.jpg": "/19000miles.github.io/static/media/cameras.6a0b703f932b3ae15c68.jpg",
+    "static/media/camping-img.jpg": "/19000miles.github.io/static/media/camping-img.d8bc83cc8ff563d0ee33.jpg",
+    "static/media/Background5.jpg": "/19000miles.github.io/static/media/Background5.8320ee7ac4c5fecdf4e0.jpg",
+    "static/media/road-img.jpg": "/19000miles.github.io/static/media/road-img.aa01187fc68e27566a92.jpg",
+    "static/media/IS2.png": "/19000miles.github.io/static/media/IS2.16553f9b5a0d6eeb3519.png",
+    "static/media/Tik.png": "/19000miles.github.io/static/media/Tik.24be84ae415967b2e7a4.png",
+    "static/media/Twit.png": "/19000miles.github.io/static/media/Twit.ee5850ad0ecef1ebbbe4.png",
+    "static/media/youtube2.png": "/19000miles.github.io/static/media/youtube2.b9267af065612318a866.png",
+    "static/media/Tik2.png": "/19000miles.github.io/static/media/Tik2.9b32b891b7e830b2c981.png",
+    "static/media/close.png": "/19000miles.github.io/static/media/close.d3914b11df8f6f45130c.png",
+    "static/media/burguer.png": "/19000miles.github.io/static/media/burguer.a633845bca57a0d1a648.png",
+    "static/media/Twit2.png": "/19000miles.github.io/static/media/Twit2.15be447584b84e00e4dc.png",
+    "static/media/logo.svg": "/19000miles.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/19000miles.github.io/index.html",
+    "main.b0a19fc9.css.map": "/19000miles.github.io/static/css/main.b0a19fc9.css.map",
+    "main.cd9b0fc7.js.map": "/19000miles.github.io/static/js/main.cd9b0fc7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/19000miles.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a19fc9.css",
+    "static/js/main.cd9b0fc7.js"
+  ]
+}
